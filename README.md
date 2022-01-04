@@ -21,4 +21,4 @@ As más práticas em questão são as seguintes:
 - Esperas desnecessárias
 - Abstrações erradas
 
-Um curso da [Escola Talking About Testing - Teacher: Walmyr Filho](https://udemy.com/user/walmyr).
+Um curso da [Escola Talking About Testing - Teacher: Walmyr Filho]
